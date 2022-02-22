@@ -13,8 +13,11 @@ margin: 0%;
     padding-bottom: 100px;
 }
 .photo{
-    height: 800px;
+    margin-top: 200px;
+    height: 400px;
     width: 600px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
 }
 .all-body{
     padding-left: 70px;
