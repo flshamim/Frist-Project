@@ -1,0 +1,107 @@
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+margin: 0%;
+}
+.shado{
+    text-shadow: 10px 5px 5px black;
+}
+.body-style{
+    display: flex;
+    background-image: url(/4EpiqN.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+.photo{
+    height: 800px;
+    width: 600px;
+}
+.all-body{
+    padding-left: 70px;
+    padding-top: 60px
+}
+.hedd{
+    font-size: 80px;
+    color: orangered;
+}
+.mnb{
+    font-size: 45px;
+}
+.secendhad{
+    font-size: 35px;
+}
+.lkj{
+    color: orangered;
+}
+.zxc{
+    font-size: 25px;
+}
+.sss{
+    background-image: linear-gradient(rgb(240, 143, 16) ,rgb(235, 43, 10));
+    border-radius: 10px;
+    color: rgb(248, 241, 241);
+    font-weight: 700;
+    padding: 15px 30px;
+    text-decoration: none; 
+    text-shadow: 10px 5px 5px black; 
+}
+.sssss{
+    display: flex;
+    background-image: url('/maxresdefault.png');
+    background-repeat: no-repeat;
+}
+.mmm{
+    width: 50%;
+    padding-bottom: 100px;
+    
+}
+.aaa{
+inline-size: 500px;
+padding-left: 50px;
+}
+.nnn{
+    padding-right: 50px;
+}
+.bbb{
+    font-size: 40px;
+
+}
+ .vvv{
+     font-size: 25px; 
+ }
+ .CCC{
+    background-image: linear-gradient(orangered ,red);
+    padding: 15px 30px;
+    border-radius: 20px;
+    color: blanchedalmond;
+    text-decoration: none;
+   
+ }
+.area{
+    display: flex;
+    background-image:url(/white.png);
+    background-repeat: no-repeat;
+}
+.dcap{
+  width: 50%;
+  padding-left: 2%;
+  box-shadow: 10px 10px 20px black;
+  margin-bottom: 60px;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 400px;
+  padding-right: 2%;
+  border-radius: 10px;
+  border-left: 10px solid black;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+h3{
+   color: brown;
+}
+.ddd{
+    padding-left: 30px;
+}
+.bbbb{
+    text-align: center;
+}
